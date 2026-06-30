@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Premium GitHub profile banner</title>
+  <desc id="desc">A premium dark editorial banner with gold, mint, and ivory accents for a developer profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#12100B"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(916 128) rotate(144) scale(420 260)">
+      <stop stop-color="#D6A74A" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#D6A74A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mintGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(244 275) rotate(-18) scale(380 190)">
+      <stop stop-color="#6EE7B7" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#6EE7B7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="126" y1="224" x2="1000" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6A74A"/>
+      <stop offset="0.42" stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#F8F3E7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#goldGlow)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#mintGlow)"/>
+
+  <g opacity="0.22">
+    <path d="M106 72H408C432 72 448 88 448 112V248C448 272 464 288 488 288H762" stroke="#F8F3E7" stroke-width="1"/>
+    <path d="M742 72H960C982 72 998 88 998 110V174C998 196 1014 212 1036 212H1104" stroke="#D6A74A" stroke-width="1"/>
+    <path d="M86 270H266C288 270 304 254 304 232V178C304 156 320 140 342 140H490" stroke="#6EE7B7" stroke-width="1"/>
+    <circle cx="448" cy="112" r="4" fill="#D6A74A"/>
+    <circle cx="998" cy="174" r="4" fill="#6EE7B7"/>
+    <circle cx="304" cy="232" r="4" fill="#F8F3E7"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="80" y="58" width="1040" height="244" rx="24" fill="#0D1117" fill-opacity="0.68" stroke="#F8F3E7" stroke-opacity="0.11"/>
+  </g>
+
+  <text x="126" y="128" fill="#D6A74A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">GITHUB PROFILE</text>
+  <text x="126" y="196" fill="#F8F3E7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">PARHAM JENANI</text>
+  <rect x="126" y="222" width="804" height="2" rx="1" fill="url(#rule)"/>
+  <text x="126" y="264" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Python, AI assistants, automation, and polished web experiments.</text>
+
+  <g transform="translate(916 104)">
+    <rect x="0" y="0" width="132" height="132" rx="30" fill="#F8F3E7" fill-opacity="0.05" stroke="#F8F3E7" stroke-opacity="0.18"/>
+    <path d="M36 82L66 32L96 82H78L66 60L54 82H36Z" fill="#D6A74A"/>
+    <path d="M42 96H90" stroke="#6EE7B7" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
