@@ -70,25 +70,37 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/parhamje/JarvisAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamje&repo=JarvisAI&theme=transparent&hide_border=true&title_color=D6A74A&text_color=E7EDF3&icon_color=6EE7B7&bg_color=0D1117" alt="JarvisAI" />
+      <a href="https://github.com/parhamje/Verno">
+        <img src="./assets/card-verno.svg" width="460" alt="Verno" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/parhamje/Verno">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamje&repo=Verno&theme=transparent&hide_border=true&title_color=D6A74A&text_color=E7EDF3&icon_color=6EE7B7&bg_color=0D1117" alt="Verno" />
+      <a href="https://github.com/parhamje/nexus-freelance-agent">
+        <img src="./assets/card-nexus.svg" width="460" alt="nexus-freelance-agent" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/parhamje/gol-ara-store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamje&repo=gol-ara-store&theme=transparent&hide_border=true&title_color=D6A74A&text_color=E7EDF3&icon_color=6EE7B7&bg_color=0D1117" alt="gol-ara-store" />
+      <a href="https://github.com/parhamje/RAG-MehrPlus-Chatbot">
+        <img src="./assets/card-mehrplus.svg" width="460" alt="RAG-MehrPlus-Chatbot" />
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/parhamje/gol-ara-store">
+        <img src="./assets/card-gol-ara.svg" width="460" alt="gol-ara-store" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/parhamje/flavoro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parhamje&repo=flavoro&theme=transparent&hide_border=true&title_color=D6A74A&text_color=E7EDF3&icon_color=6EE7B7&bg_color=0D1117" alt="flavoro" />
+        <img src="./assets/card-flavoro.svg" width="460" alt="flavoro" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parhamje/JarvisAI">
+        <img src="./assets/card-jarvis.svg" width="460" alt="JarvisAI" />
       </a>
     </td>
   </tr>
@@ -96,12 +108,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">GitHub Snapshot</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parhamje&show_icons=true&hide_border=true&theme=transparent&title_color=D6A74A&text_color=E7EDF3&icon_color=6EE7B7&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhamje&layout=compact&hide_border=true&theme=transparent&title_color=D6A74A&text_color=E7EDF3&bg_color=0D1117" alt="Top languages" />
-</p>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parhamje&theme=dark&hide_border=true&background=0D1117&ring=D6A74A&fire=D6A74A&currStreakLabel=6EE7B7" alt="GitHub streak" />
